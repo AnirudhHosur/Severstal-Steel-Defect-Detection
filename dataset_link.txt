@@ -1,0 +1,1 @@
+Link to the dataset - https://www.kaggle.com/c/severstal-steel-defect-detection/data
